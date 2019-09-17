@@ -1,0 +1,5 @@
+DogInceptionV3Data.npz
+
+Click below for downloding the DoginceptionV3data.npz file
+
+https://www.floydhub.com/api/v1/resources/jvPUAqyzSBbHSMk4CynvHJ/DogInceptionV3Data.npz?content=true&rename=doginceptionv3datanpz
